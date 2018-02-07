@@ -8,6 +8,8 @@
 
 # Requires AdafruitChar_LCD library from https://github.com/adafruit/Adafruit_Python_CharLCD
 
+# auth.py file should have your Twitter application keys in it
+
 # By Anderson Adon andersonaadon@gmail.com
 
 # Thermometer tutorial at https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/overview

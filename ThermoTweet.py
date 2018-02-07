@@ -1,6 +1,7 @@
 # Tweeting thermometer with DS18B20
 # If temperature goes below 60 degrees F or above 80 degrees F, a tweet will
 # be sent to Johns Hopkins University.
+# auth.py file should have your twitter application keys in it
 # By Anderson Adon andersonaadon@gmail.com
 # Thermometer tutorial at https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/overview
 # RPi tweeting tutorial at https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api
